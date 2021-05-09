@@ -2,7 +2,7 @@
 Chess move recommender with Machine Learning
 
 
-**LIBRARIES TO BE INSTALLED**
+**LIBRARIES TO BE INSTALLED:**
 
 python-chess
 pip install python-chess
@@ -20,7 +20,7 @@ Common libraries used:
 os, re, numpy, pandas, sklearn
 
 
-**CODE & DATA FILES EXPLAINED**
+**CODE & DATA FILES EXPLAINED:**
 
 pgn_convert_board_pos_to_input_data.py
 - To convert pgn file to a dataframe of chess board positions
