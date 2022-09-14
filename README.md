@@ -37,7 +37,7 @@ Output file: 'model.pkl'
 Input files: 'model.pkl', 'stockfish_13_win_x64_bmi2.exe'
 Output file: None
 
-### stockfish_13_win_x64_bmi2.exe
+### stockfish_13_chess_engine.exe
 - This is the stockfish chess engine which can be used to play chess
   
   
