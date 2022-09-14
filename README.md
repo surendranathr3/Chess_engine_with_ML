@@ -1,23 +1,7 @@
 # Chess engine with Machine Learning
 
+https://user-images.githubusercontent.com/18438004/190040568-a8e98f59-b627-41e7-b2e2-fce9fa69e093.mp4
 
-## Requirements:  
-  
-### python-chess  
-pip install python-chess  
-https://python-chess.readthedocs.io/en/latest/  
-  
-### cloudpickle  
-pip install cloudpickle  
-https://pypi.org/project/cloudpickle/  
-  
-### IPython  
-pip install ipython  
-https://ipython.org/ipython-doc/3/install/index.html  
-  
-### Common libraries used:  
-numpy, pandas, sklearn  
-  
   
 ## CODE & DATA FILES EXPLAINED:
   
@@ -54,7 +38,20 @@ Output file: None
 ### stockfish_13_win_x64_bmi2.exe
 - This is the stockfish chess engine which can be used to play chess
   
-
-
-https://user-images.githubusercontent.com/18438004/190040568-a8e98f59-b627-41e7-b2e2-fce9fa69e093.mp4
-
+  
+## Requirements:  
+  
+### python-chess  
+pip install python-chess  
+https://python-chess.readthedocs.io/en/latest/  
+  
+### cloudpickle  
+pip install cloudpickle  
+https://pypi.org/project/cloudpickle/  
+  
+### IPython  
+pip install ipython  
+https://ipython.org/ipython-doc/3/install/index.html  
+  
+### Common libraries used:  
+numpy, pandas, sklearn  
