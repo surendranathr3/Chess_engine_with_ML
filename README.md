@@ -1,5 +1,4 @@
-# chess_ML
-Chess move recommender with Machine Learning
+# Chess engine with Machine Learning
 
 
 **LIBRARIES TO BE INSTALLED:**
