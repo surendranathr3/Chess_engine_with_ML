@@ -10,20 +10,20 @@ https://user-images.githubusercontent.com/18438004/190043275-c8aa7a55-754a-444e-
 ### pgn_convert_board_pos_to_input_data.py
 - To convert pgn file to a dataframe of chess board positions
 - Can be directly run, output csv will be stored in current working directory  
-Input file: 'LeelaChess_annotated_games.pgn'  
-Output file: 'Chess_input_data.csv'  
+Input file: "LeelaChess_annotated_games.pgn"  
+Output file: "Chess_input_data.csv"  
 
 ### pgn_convert_eval_scores_to_label_data.py
 - To convert pgn file to a dataframe of position evaluation scores
 - Can be directly run, output csv will be stored in current working directory  
-Input file: 'LeelaChess_annotated_games.pgn'  
-Output files: 'Chess_label_data.csv', 'Error_scores.csv'  
+Input file: "LeelaChess_annotated_games.pgn"  
+Output files: "Chess_label_data.csv", "Error_scores.csv"  
 
 ### data_cleaning.py
 - To prepare final dataset from already generated csv files mentioned above
 - Can be directly run, output csv will be stored in current working directory  
-Input files: 'Chess_input_data.csv', 'Chess_label_data.csv', 'Error_scores.csv'  
-Output file: 'Chess_training_data.csv'  
+Input files: "Chess_input_data.csv", "Chess_label_data.csv", "Error_scores.csv"  
+Output file: "Chess_training_data.csv"  
 
 ### train_model.py
 - To create and store a random forest model based on the training dataset of chess positions 
